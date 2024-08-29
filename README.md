@@ -43,11 +43,8 @@ Management is mostly common sense and caring about people and products.
 
 * I believe in the `high functioning` individual, which means that you're proactive about collaborating with teams and services that you may impact or interact with.
 * Finding a way around blockers (world-class people are rarely ever "blocked").
-* . Initiative to learn what you need.
+* Initiative to learn what you need.
 * General awareness that we're all in this together (whatever it is).
-
-## A Note on Skill and Talent
-`Talent` is capacity, `skill` is praxis (putting practice into application). You don't need talent to become a highly skilled person, but you might need to invest a lot more time. On the other hand, talent won't get you anywhere unless you put in the effort. Talent is a false equivalence with skill, nor does it equate with interest or passion.
 
 ## Scope
 Teams are incubators to develop world-class engineers through focusing on professional development goals and aligning those goals as best we can with specific projects. Solve fundamental problems by focusing on standards and best practices, innovating where needed. Seek to be a resource to others through communication and collaboration.
@@ -74,3 +71,6 @@ Develop world-class engineers. That's it. Everything else follows.
 * Marginal gains add up.
 * Too much planning is procrastinating.
 * If you can't measure it, you don't understand it.
+
+## A Note on Skill and Talent
+`Talent` is capacity, `skill` is praxis (putting practice into application). You don't need talent to become a highly skilled person, but you might need to invest a lot more time. On the other hand, talent won't get you anywhere unless you put in the effort. Talent is a false equivalence with skill, nor does it equate with interest or passion.
