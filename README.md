@@ -33,21 +33,26 @@ Here are some ideas to get you started:
     * Each person is different, my management style may shift depending on your strengths and areas of growth.
 7. I've done AI and ML before it was cool, it's not magic, it's a lot of (janitorial) work; I like janitor work.
     * AI is infrastructure
-    * The biggest challenges for AI and data are not engineering, but product market fit.
+    * The biggest challenges for AI and data are not engineering, but product-market fit.
 
 ## My Role
 My role is to support and develop world-class engineers, then get out of the way. That's it. Everything else follows.
 
-## My Sense of Management
-Management is mostly common sense and caring about people and products.
+# My Sense of Management
+Management is mostly common sense and caring about people, products, and customers.
 
-* I believe in the `high functioning` individual, which means that you're proactive about collaborating with teams and services that you may impact or interact with.
-* Finding a way around blockers (world-class people are rarely ever "blocked").
-* Initiative to learn what you need.
-* General awareness that we're all in this together (whatever it is).
+* I expect `high functioning` individuals, which means that you're proactive about collaborating with teams and services that you may impact or interact with.
+* I expect you to find a way around blockers (world-class people are rarely ever "blocked").
+* I expect you to learn what you need.
+* I expect a general awareness that we're all in this together (whatever _it_ is).
+* I hold monthly performance observations.
+    * I write down what I've observed, and we meet.
+    * This gives you a chance to correct me where I'm wrong, and align our views.
+    * By the end of the year, there are no surprises about your performance.
+* I hold weekly one-on-one meetings, focusing on feedback for both of us.
 
 ## Scope
-Teams are incubators to develop world-class engineers through focusing on professional development goals and aligning those goals as best we can with specific projects. Solve fundamental problems by focusing on standards and best practices, innovating where needed. Seek to be a resource to others through communication and collaboration.
+Teams are incubators to develop world-class engineers through focusing on professional development goals and aligning those goals as best we can with specific projects. We solve fundamental problems by focusing on standards and best practices, innovating where needed. We seek to be a resource to others through example, communication, coordination, and collaboration.
 
 ## Vision
 Develop world-class engineers. That's it. Everything else follows.
